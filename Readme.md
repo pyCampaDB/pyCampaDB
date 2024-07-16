@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/c/pycampadb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pycampadb" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center" margin-top="2em">Languages and Tools:</h3>
 
 <div align="center">
   <table style="border-collapse: collapse; width: auto;">
@@ -53,5 +53,5 @@
 </div>
 
 
-<p align="center"><img src="img2.svg" alt="pycampadb" height="195px"/> &nbsp;<img src="img.svg" alt="pycampadb" /></p>
+<p align="center" margin-top="2em"><img src="img2.svg" alt="pycampadb" height="195px"/> &nbsp;<img src="img.svg" alt="pycampadb" /></p>
         
