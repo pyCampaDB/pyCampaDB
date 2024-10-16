@@ -5,13 +5,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-%C3%A1ngel-campa%C3%B1a-mart%C3%ADnez-8a630129b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael ángel campaña martínez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafaelcampa%C3%B1a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael ángel campaña martínez" height="30" width="40" /></a>
 <a href="https://instagram.com/pycampadb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pycampadb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pycampadb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pycampadb" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" margin-top="2em">Languages and Tools:</h3>
-
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <table style="border-collapse: collapse; width: auto;">
     <tr>
